@@ -1,6 +1,6 @@
 # Flow Icons for IntelliJ
 
-An IntelliJ IDEA plugin that brings the beautiful [Flow Icons](https://github.com/BenjaminHalko/flow-icons-zed) icon set to the IntelliJ platform.
+An IntelliJ IDEA plugin that brings the beautiful [Flow Icons](https://flow-icons.pages.dev/) icon set to the IntelliJ platform.
 
 Icons appear in the Project tree, editor tabs, and everywhere else files are displayed in the IDE.
 

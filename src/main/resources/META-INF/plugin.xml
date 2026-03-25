@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>com.superlative.flowintellij</id>
+    <name>Flow Icons</name>
+    <vendor email="" url="https://github.com/henriquekrauss/flow-intellij">Henrique Krauss</vendor>
+
+    <description><![CDATA[
+        Beautiful file icons for IntelliJ IDEA.<br/><br/>
+        Brings the <a href="https://github.com/BenjaminHalko/flow-icons-zed">Flow Icons</a> icon set
+        to the IntelliJ platform, providing rich file type icons in the Project tree,
+        editor tabs, and everywhere else files are displayed.<br/><br/>
+        Icons by <a href="https://github.com/thang-nm">thang-nm</a>.
+        Run <code>scripts/download-icons.sh</code> to fetch the icon assets.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <fileIconProvider
+                order="first"
+                implementation="com.superlative.flowintellij.FlowIconProvider"/>
+    </extensions>
+</idea-plugin>

@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+.intellijPlatform/
+build/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+src/main/resources/icons/flow/

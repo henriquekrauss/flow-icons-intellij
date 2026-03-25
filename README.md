@@ -4,7 +4,7 @@ An IntelliJ IDEA plugin that brings the beautiful [Flow Icons](https://github.co
 
 Icons appear in the Project tree, editor tabs, and everywhere else files are displayed in the IDE.
 
-![Flow Icons Preview](https://raw.githubusercontent.com/BenjaminHalko/flow-icons-zed/main/preview.png)
+![Flow Icons Preview](preview.png)
 
 > Icons by [thang-nm](https://github.com/thang-nm), packaged for IntelliJ by [Henrique Krauss](https://github.com/henriquekrauss).
 

@@ -6,7 +6,7 @@ Icons appear in the Project tree, editor tabs, and everywhere else files are dis
 
 ![Flow Icons Preview](assets/preview.png)
 
-> Icons by [thang-nm](https://github.com/thang-nm), packaged for IntelliJ by [Henrique Krauss](https://github.com/henriquekrauss).
+> Icons by [thang-nm](https://github.com/thang-nm), ported to Zed by [Benjamin Halko](https://github.com/BenjaminHalko), packaged for IntelliJ by [Henrique Krauss](https://github.com/henriquekrauss).
 
 ---
 
